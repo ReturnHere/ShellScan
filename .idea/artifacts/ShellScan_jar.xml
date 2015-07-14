@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShellScan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShellScan_jar</output-path>
+    <root id="archive" name="ShellScan.jar">
+      <element id="module-output" name="ShellScan" />
+    </root>
+  </artifact>
+</component>
